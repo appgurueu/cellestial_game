@@ -1,0 +1,18 @@
+[submodule "mods/modlib"]
+	path = mods/modlib
+	url = https://github.com/appgurueu/modlib
+[submodule "mods/cmdlib"]
+	path = mods/cmdlib
+	url = https://github.com/appgurueu/cmdlib
+[submodule "mods/adv_chat"]
+	path = mods/adv_chat
+	url = https://github.com/appgurueu/adv_chat
+[submodule "mods/hud_timers"]
+	path = mods/hud_timers
+	url = https://github.com/appgurueu/hud_timers
+[submodule "mods/cellestial"]
+	path = mods/cellestial
+	url = https://github.com/appgurueu/cellestial
+[submodule "mods/cellestiall"]
+	path = mods/cellestiall
+	url = https://github.com/appgurueu/cellestiall
