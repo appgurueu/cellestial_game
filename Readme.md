@@ -13,7 +13,7 @@ Written entirely by Lars Mueller aka LMD or appguru(eu). Code licensed under the
 * [GitHub](https://github.com/appgurueu/cellestiall)
 * [Discord](https://discordapp.com/invite/ysP74by)
 * [ContentDB](https://content.minetest.net/packages/LMD/cellestiall)
-* [Minetest Forum](): Will create a topic
+* [Minetest Forum](https://forum.minetest.net/viewtopic.php?f=50&t=24458)
 
 Part of the Cellestial Series: [`cellestial`](https://github.com/appgurueu/cellestial), [`cellestiall`](https://github.com/appgurueu/cellestiall) and [`cellestial_game`](https://github.com/appgurueu/cellestial_game)
 
