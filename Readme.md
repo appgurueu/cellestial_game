@@ -1,4 +1,4 @@
-<div align="center"><img alt="Image" src="menu/logo.png"><img alt="Image" src="menu/header.png"></div>
+<p align="center"><img alt="Image" src="menu/logo.png"><img alt="Image" src="menu/header.png"></p>
 
 # Cellestial Game (`cellestial_game`)
 
@@ -10,9 +10,9 @@ Written entirely by Lars Mueller aka LMD or appguru(eu). Code licensed under the
 
 ### Links
 
-* [GitHub](https://github.com/appgurueu/cellestiall)
+* [GitHub](https://github.com/appgurueu/cellestial_game)
 * [Discord](https://discordapp.com/invite/ysP74by)
-* [ContentDB](https://content.minetest.net/packages/LMD/cellestiall)
+* [ContentDB](https://content.minetest.net/packages/LMD/cellestial_game)
 * [Minetest Forum](https://forum.minetest.net/viewtopic.php?f=50&t=24458)
 
 Part of the Cellestial Series: [`cellestial`](https://github.com/appgurueu/cellestial), [`cellestiall`](https://github.com/appgurueu/cellestiall) and [`cellestial_game`](https://github.com/appgurueu/cellestial_game)
