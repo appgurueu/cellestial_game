@@ -6,7 +6,7 @@ Game of Life in three dimensions.
 
 ## About
 
-Written entirely by Lars Mueller aka LMD or appguru(eu). Code licensed under the MIT and GPLv3 licenses (see below). Media licensed as CC0.
+Written entirely by Lars Mueller aka LMD or appguru(eu). Code licensed under the MIT and GPLv3 licenses (see below). For media licenses see each mod's Readme.
 
 ### Links
 
