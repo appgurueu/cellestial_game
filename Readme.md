@@ -1,4 +1,4 @@
-<p align="center"><img alt="Image" src="menu/logo.png"><img alt="Image" src="menu/header.png"></p>
+<p align="center"><img alt="Image" src="logo.png"><img alt="Image" src="menu/header.png"></p>
 
 # Cellestial Game (`cellestial_game`)
 
@@ -29,4 +29,4 @@ Contains the following mods:
 Mods to be considered:
 
 * `management`: Server management, work in progress
-* `worldedit`: World editing, needs more restrictions
+* `worldedit`: World editing, needs more restrictions & interoperability with cellestial internals
